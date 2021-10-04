@@ -1,1 +1,1 @@
-https://github.com/YunxiaoXu/Lab2
+https://yunxiaoxu.github.io/Lab2/
